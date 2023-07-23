@@ -22,7 +22,7 @@ Looking forward, I feel that all ways are open and there is much more to learn a
 
 ## Find me around the web at:
 
-[![LinkedIn](https://github.com/maclinc/maclinc/assets/125596927/6c7e5458-ec78-42c4-9edf-b9415c3d1626)](https://www.linkedin.com/in/lincoln-machado-udi/)
+[![LinkedIn](https://github.com/maclinc/maclinc/blob/main/In-Blue-40.png)](https://www.linkedin.com/in/lincoln-machado-udi/)
 
 
 
