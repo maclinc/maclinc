@@ -1,10 +1,14 @@
 <div align="right">
-🌐 Language: English (default) · [Clique aqui para Português ⬇️](#-português)
+🌐 **Language:** English (default) · [Clique aqui para Português ⬇️](#portugues)
  
 </div>
+<a id="top"></a>
+ 
 # Lincoln Machado
  
-### 🇬🇧 English
+<a id="english"></a>
+ 
+### 🇺🇸 English
  
 ## About Me
  
@@ -73,10 +77,10 @@ My differential is the ability to move between different areas and connect peopl
 ---
  
 <div align="right">
-[⬆️ Back to top](#lincoln-machado)
+[⬆️ Back to top](#top)
  
 </div>
-<a id="-português"></a>
+<a id="portugues"></a>
  
 ### 🇧🇷 Português
  
@@ -145,7 +149,6 @@ Meu diferencial é a capacidade de transitar entre diferentes áreas e conectar 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:lcmachado@outlook.com.br)
  
 <div align="right">
-[⬆️ Voltar ao topo](#lincoln-machado)
+[⬆️ Voltar ao topo](#top)
  
 </div>
- 
