@@ -1,5 +1,5 @@
 <div align="right">
-🌐 **Language:** English (default) · [Clique aqui para Português ⬇️](#-português)
+🌐 Language: English (default) · [Clique aqui para Português ⬇️](#-português)
  
 </div>
 # Lincoln Machado
